@@ -1,6 +1,3 @@
-
-<ckage com.example;
-
 public class Book {
     int id;
     String name;
@@ -10,4 +7,4 @@ public class Book {
     public String toString() {
         return "Book [author=" + author + ", id=" + id + ", name=" + name + "]";
     }
-}servlet>
+}
